@@ -4,4 +4,19 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+## Contact
+
+### Address
+HDSP Research Group  
+Carrera 27, Calle 9, Edificio. LP, Of. 333, 334 and 336  
+Escuela de Ingeniería de Sistemas e Informática  
+Universidad Industrial de Santander, 680002  
+Bucaramanga, Colombia
+
+### E-mail
+hdsp [AT] uis.edu.co  
+henarfu [AT] uis.edu.co
+
+### Phone
++57-607-6344000  
+Ext: 2476 or 2676
