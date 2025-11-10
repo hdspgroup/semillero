@@ -4,10 +4,10 @@ title: People
 permalink: /people
 ---
 
-## Faculty
-
-### Professor Henry Arguello
+### Professor Henry Arguello Fuentes
 **Principal Investigator**
+Ph.D. Electrical and Computer Engineering, University of Delaware
+Associate Professor, Universidad Industrial de Santander
 
 Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional signal processing, compressed sensing, and computational imaging.
 
@@ -21,6 +21,13 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 - Compressive sensing
 
 ---
+## Professors
+
+| Name             | Title Academic               |
+|------------------|-----------------------------|
+| Hans García       | Ph.D. Professor      |
+
+---
 
 ## Doctoral Students
 
@@ -32,10 +39,10 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 | Emmanuel Martínez| Ph.D. Computer Science      |
 | Leon Suárez       | Ph.D. Computer Science      |
 | Juan Carlos Vega | Ph.D. Computer Science      |
-| Sergio Urrea     | Ph.D. Electronic Engineering|
-| Pablo Gómez      | Ph.D. Electronic Engineering|
-| Román Jácome     | Ph.D. Electronic Engineering|
-| Karen Fonseca    | Ph.D. Electronic Engineering|
+| Sergio Urrea     | Ph.D. Engineering|
+| Pablo Gómez      | Ph.D. Engineering|
+| Román Jácome     | Ph.D. Engineering|
+| Karen Fonseca    | Ph.D. Engineering|
 
 ---
 
@@ -43,9 +50,6 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 | Name               | Title Academic                |
 |--------------------|------------------------------|
-| Yesid F. Fonseca V. | MSc. Mathematics             |
-| Jhon J. Angarita P. | MSc. Applied Mathematics     |
-| Andrés D. Guerrero D.| MSc. Applied Mathematics    |
 | Javier Torres       | MSc. Systems and Computer Engineering |
 | Sebastián Ardila    | MSc. Electronic Engineering  |
 | Ana Mantilla       | MSc. Geophysics              |
