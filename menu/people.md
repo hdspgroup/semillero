@@ -99,8 +99,4 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 | Romario Gualdrón  | MSc. Computer Science Engineering      |
 | Paula Arguello    | Ph.D. (student) Computer Science |
 
----
 
-## Alumni
-
-*Information about alumni will be added here.*
