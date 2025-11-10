@@ -22,15 +22,78 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ---
 
-## Researchers
+## Doctoral Students
 
-*Information about research team members will be added here.*
+| Name             | Title Academic               |
+|------------------|-----------------------------|
+| Paul Goyes       | Ph.D. Computer Science      |
+| Jhon López       | Ph.D. Computer Science      |
+| Kevin Arias      | Ph.D. Computer Science      |
+| Emmanuel Martínez| Ph.D. Computer Science      |
+| Leon Suárez       | Ph.D. Computer Science      |
+| Juan Carlos Vega | Ph.D. Computer Science      |
+| Sergio Urrea     | Ph.D. Electronic Engineering|
+| Pablo Gómez      | Ph.D. Electronic Engineering|
+| Román Jácome     | Ph.D. Electronic Engineering|
+| Karen Fonseca    | Ph.D. Electronic Engineering|
 
 ---
 
-## Students
+## Master Students
 
-*Information about student members will be added here.*
+| Name               | Title Academic                |
+|--------------------|------------------------------|
+| Yesid F. Fonseca V. | MSc. Mathematics             |
+| Jhon J. Angarita P. | MSc. Applied Mathematics     |
+| Andrés D. Guerrero D.| MSc. Applied Mathematics    |
+| Javier Torres       | MSc. Systems and Computer Engineering |
+| Sebastián Ardila    | MSc. Electronic Engineering  |
+| Ana Mantilla       | MSc. Geophysics              |
+
+---
+
+## Undergraduate Students
+
+| Name                | Title Academic                    |
+|---------------------|---------------------------------|
+| Laura C. Diaz-Delgado    | Computer Science Engineering (8th Semester)|
+| Julio Gutiérrez     | Computer Science Engineering (8th Semester)|
+| José Barrios        | Electronic Engineering (8th Semester)|
+| Lamar Rivera        | Physics (9th Semester)           |
+| Santiago Rodríguez  | Electronic Engineering (8th Semester)|
+| Carlos Mogollón     | Electronic Engineering (10th Semester)|
+| Nohelia Agudelo     | Electronic Engineering (8th Semester)|
+| Javier Quiroga      | Electronic Engineering (8th Semester)|
+| Ernesto Vásquez     | Electronic Engineering (4th Semester)|
+| Deisy Camacho      | Mathematics (8th Semester)       |
+| Daniel Díaz        | Electronic Engineering (6th Semester)|
+| Juan Diego Cárdenas | Computer Science Engineering (6th Semester)|
+
+---
+
+## Administrative and Professionals
+
+| Name             | Title Academic                          |
+|------------------|---------------------------------------|
+| Ana Gutiérrez    | Master's in Project Management         |
+| Marcela Rincón   | Industrial Engineering Specialist in Strategic Management |
+
+---
+
+## Collaborators
+
+| Name              | Title Academic                 |
+|-------------------|-------------------------------|
+| Said Pertuz       | Ph.D. Professor               |
+| Sergio Castillo   | Ph.D. Professor               |
+| Hoover Rueda      | Ph.D. Professor               |
+| Luis González     | MSc. Professor                |
+| Laura Galvis      | Ph.D. Professor               |
+| Jorge Bacca           | Ph.D. Professor               |
+| Alejandra Hernández | MSc. Geophysics              |
+| Ofelia Villarreal | MSc. Electronic Engineering  |
+| Romario Gualdrón  | MSc. Computer Science Engineering      |
+| Paula Arguello    | Ph.D. (student) Computer Science |
 
 ---
 
