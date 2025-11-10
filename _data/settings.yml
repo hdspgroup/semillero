@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Home',    url: 'home.html'}
+- {name: 'Home',    url: 'welcome-to-hdsp'}
 - {name: 'People',  url: 'people.html'}
 - {name: 'About',   url: 'about.html'}
 - {name: 'Writing', url: 'writing.html'}
