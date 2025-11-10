@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-## Contact
-
 ### Address
 HDSP Research Group  
 Carrera 27, Calle 9, Edificio. LP, Of. 333, 334 and 336  
