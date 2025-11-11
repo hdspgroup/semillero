@@ -5,7 +5,8 @@ permalink: /people
 ---
 
 ### Professor Henry Arguello Fuentes  
-![Foto de Henry Arguello](assets/img/pro_henry_arguello.jpeg)  
+<img src="assets/img/prof_henry_arguello.jpeg" alt="Henry Arguello" width="180" />  
+
 **Principal Investigator**  
 Ph.D. Electrical and Computer Engineering, University of Delaware  
 Associate Professor, Universidad Industrial de Santander  
