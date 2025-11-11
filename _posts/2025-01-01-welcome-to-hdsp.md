@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to HDSP!"
-author: ""
+author: "HDSP Group"
 categories: journal
 tags: [documentation,sample]
 image: hdsp.PNG
