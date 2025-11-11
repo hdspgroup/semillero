@@ -23,7 +23,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 ---
 ## Professors
 
-| Name             | Title Academic               |
+| Name             | Academic Title               |
 |------------------|-----------------------------|
 | Hans García       | Ph.D. Professor      |
 
@@ -31,7 +31,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ## Doctoral Students
 
-| Name             | Title Academic               |
+| Name             | Academic Title               |
 |------------------|-----------------------------|
 | Paul Goyes       | Ph.D. Computer Science      |
 | Jhon López       | Ph.D. Computer Science      |
@@ -48,7 +48,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ## Master Students
 
-| Name               | Title Academic                |
+| Name               | Academic Title                |
 |--------------------|------------------------------|
 | Javier Torres       | MSc. Systems and Computer Engineering |
 | Sebastián Ardila    | MSc. Electronic Engineering  |
@@ -58,7 +58,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ## Undergraduate Students
 
-| Name                | Title Academic                    |
+| Name                | Academic Title                    |
 |---------------------|---------------------------------|
 | Laura C. Diaz-Delgado    | Computer Science Engineering (8th Semester)|
 | Julio Gutiérrez     | Computer Science Engineering (8th Semester)|
@@ -77,7 +77,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ## Administrative and Professionals
 
-| Name             | Title Academic                          |
+| Name             | Academic Title                          |
 |------------------|---------------------------------------|
 | Ana Gutiérrez    | Master's in Project Management         |
 | Marcela Rincón   | Industrial Engineering Specialist in Strategic Management |
@@ -86,7 +86,7 @@ Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional sign
 
 ## Collaborators
 
-| Name              | Title Academic                 |
+| Name              | Academic Title                 |
 |-------------------|-------------------------------|
 | Said Pertuz       | Ph.D. Professor               |
 | Sergio Castillo   | Ph.D. Professor               |
