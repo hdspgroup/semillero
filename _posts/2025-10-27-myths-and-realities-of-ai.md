@@ -7,7 +7,6 @@ tags: [AI, outreach, seminar, ethics, HDSP]
 image: 
 ---
 
-# HDSP Outreach Talk: Myths and Realities of Artificial Intelligence
 
 Artificial Intelligence (AI) has become one of the most discussed topics in the scientific and social domains during recent years. However, a significant number of myths persist about its real capacities, its autonomy, and its impact on society. 
 
