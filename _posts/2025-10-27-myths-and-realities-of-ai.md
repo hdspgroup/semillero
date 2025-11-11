@@ -29,7 +29,8 @@ The session was held in a hybrid format â€” both in person and via Google Meet â
 
 ## Watch the Recording
 
-<iframe width="560" height="315" src="https://youtu.be/CnyDL-wahEE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnyDL-wahEE" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
