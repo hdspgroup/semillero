@@ -4,7 +4,7 @@ title: "Outreach Talk: Myths and Realities of Artificial Intelligence"
 author: "HDSP Group"
 categories: events
 tags: [AI, outreach, seminar, ethics, HDSP]
-image: ai_myths.jpg
+image: 
 ---
 
 # HDSP Outreach Talk: Myths and Realities of Artificial Intelligence
