@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people
 ---
-
+---
 ### Professor Henry Arguello Fuentes  
 <img src="assets/img/prof_henry_arguello.jpeg" alt="Henry Arguello" width="180" />  
 
