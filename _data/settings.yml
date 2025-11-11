@@ -28,6 +28,4 @@ pagination:
 sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy:'
-hide_related_posts: true
-
 post_date_prefix: 'Written on'
