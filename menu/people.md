@@ -4,21 +4,22 @@ title: People
 permalink: /people
 ---
 
-### Professor Henry Arguello Fuentes
-**Principal Investigator**
-Ph.D. Electrical and Computer Engineering, University of Delaware
-Associate Professor, Universidad Industrial de Santander
+### Professor Henry Arguello Fuentes  
+![Foto de Henry Arguello](assets/img/pro_henry_arguello.jpeg)  
+**Principal Investigator**  
+Ph.D. Electrical and Computer Engineering, University of Delaware  
+Associate Professor, Universidad Industrial de Santander  
 
 Professor Henry Arguello leads the HDSP Group, focusing on high-dimensional signal processing, compressed sensing, and computational imaging.
 
-**Research Interests:**
-- Statistical signal processing
-- Super-resolution
-- Inverse problems
-- Optical imaging
-- Video processing
-- Hyperspectral imaging
-- Compressive sensing
+**Research Interests:**  
+- Statistical signal processing  
+- Super-resolution  
+- Inverse problems  
+- Optical imaging  
+- Video processing  
+- Hyperspectral imaging  
+- Compressive sensing  
 
 ---
 ## Professors
