@@ -1,37 +1,30 @@
 ---
 layout: post
-title: "Outreach Talk: Myths and Realities of Artificial Intelligence"
+title: "Theoretical and Practical Workshop on Reading and Writing Scientific Articles"
 author: "HDSP Group"
 categories: events
-tags: [AI, outreach, seminar, ethics, HDSP]
-image: ai_myths.jpg
+tags: [workshop, outreach, scientific-writing, research, HDSP]
+image: reading_writing_2025.jpg
 ---
 
+Reading and writing scientific articles are essential skills for participating in academic communities and communicating research results effectively. With this in mind, the HDSP research seedbed held the **Theoretical and Practical Workshop on Reading and Writing Scientific Articles**, a **six (6) hour** training space focused on strengthening undergraduate students’ abilities in scientific reading, state-of-the-art contextualization, and academic writing.
 
-Artificial Intelligence (AI) has become one of the most discussed topics in the scientific and social domains during recent years. However, a significant number of myths persist about its real capacities, its autonomy, and its impact on society. 
+The workshop was structured into **three (3) hours of theoretical content** and **three (3) hours of practical work**. The theoretical session was led by the group director, **Prof. Henry Arguello** ([Google Scholar](https://scholar.google.com/citations?user=R7gjbGIAAAAJ&hl=es&oi=ao)), where participants reviewed key principles for understanding the structure of scientific papers, identifying research contributions, and organizing literature to build coherent background and related-work sections.
 
-In this scenario, the HDSP research seedbed organized the outreach talk *“Myths and Realities of Artificial Intelligence”* on Monday, October 27, 2025, at 10:30 a.m., in Room 103 of the Industrial Engineering building at Universidad Industrial de Santander.
+The practical session was guided by the **PhD students**, led by **Karen Fonseca** ([Google ScholarJ](https://scholar.google.com/citations?user=KQCZTqAAAAAJ&hl=es&oi=ao)). In this hands-on component, attendees applied the concepts through structured exercises oriented toward outlining, drafting, and refining scientific text, with the aim of producing material suitable for **conference presentations** and **academic journal submissions**.
 
-The event’s main objective was to promote scientific communication and critical reflection on the technological and ethical aspects of AI. During the session, participants examined essential questions such as: *Will AI replace humans? Is it truly autonomous?* The discussion fostered a space for analyzing the genuine capabilities, current limitations, and potential risks involved in the continuous expansion of Artificial Intelligence.
+Overall, the event promoted the development of **critical and analytical thinking**, encouraging participants to read research more strategically and to write with greater clarity, rigor, and purpose for academic and professional dissemination.
 
 ## Main Topics
 
-- Demystification of autonomy, employment, and human intelligence  
-- Encouragement of critical and ethical thinking on AI development  
-- Reflection on the social responsibility of technology researchers  
+- Strategies for **critical reading** of scientific literature  
+- How to **contextualize the state of the art** and organize related work  
+- Practical guidance for **structuring and writing** scientific articles  
+- Writing oriented toward **ponencias** and **peer-reviewed venues**
 
-The session was held in a hybrid format — both in person and via Google Meet — allowing participants from different disciplines to join the conversation.
-
-**Organized by:** semillero HDSP
+**Organized by:** semillero HDSP  
 **Funded by:** Sustainability Project 4439 — @uis  
 
 ---
-
-## Watch the Recording
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CnyDL-wahEE" frameborder="0" allowfullscreen></iframe>
-
-
----
-
-#HDSPGroup #UIS #ArtificialIntelligence #ScientificOutreach #AIandEthics #CriticalThinking #UISPride #UISResearch
+#HDSPGroup #UIS #ScientificWriting #ResearchSkills #Workshop #StateOfTheArt #AcademicWriting #UISResearch
+```
