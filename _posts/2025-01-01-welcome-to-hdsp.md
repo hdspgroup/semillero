@@ -4,7 +4,7 @@ title: "Welcome to HDSP!"
 author: "HDSP Group"
 categories: journal
 tags: [documentation,sample]
-image: hdsp.PNG
+image: hdsp_2025.jpg
 ---
 
 In the last 40 years, the developments in sensing, analysis and processing of digital signals has grown considerably. Recent advances in signal processing algorithms and digital signal processors have permitted to implement diverse digital applications such as audio enhancement, digital image processing, digital image sensing and visualization, Fourier analysis and many others. In the last 10 years, the digital field has grown almost exponentially, and most important, the digital domain has explored new areas of application. Areas such as random matrix analysis, optimization, and statistical signal processing have been fused to create a new era of signal processing algorithms based on compressed sensing of sparse signals. Surprisingly, this new era of compressed sensing theory has defeated the well-known Nyquist theory. As a result, new applications of signal processing have emerged in new areas. In microscopy, for instance, the new compressed algorithms allow to overcome the diffraction limit of the lenses by using super-resolution techniques. It is now possible to observe super-resolved microscopy images. Radar, holography, and tomography applications use much less samples than the required by the Nyquist limit. Three dimensional hyperspectral images are sensed on the fly by using two-dimensional snapshots.
