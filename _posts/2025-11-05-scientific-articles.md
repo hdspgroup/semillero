@@ -11,7 +11,7 @@ Reading and writing scientific articles are essential skills for participating i
 
 The workshop was structured into **three (3) hours of theoretical content** and **three (3) hours of practical work**. The theoretical session was led by the group director, **Prof. Henry Arguello** ([Google Scholar](https://scholar.google.com/citations?user=R7gjbGIAAAAJ&hl=es&oi=ao)), where participants reviewed key principles for understanding the structure of scientific papers, identifying research contributions, and organizing literature to build coherent background and related-work sections.
 
-The practical session was guided by the **PhD students**, led by **Karen Fonseca** ([Google ScholarJ](https://scholar.google.com/citations?user=KQCZTqAAAAAJ&hl=es&oi=ao)). In this hands-on component, attendees applied the concepts through structured exercises oriented toward outlining, drafting, and refining scientific text, with the aim of producing material suitable for **conference presentations** and **academic journal submissions**.
+The practical session was guided by the **PhD students**, led by **Karen Fonseca** ([Google Scholar](https://scholar.google.com/citations?user=KQCZTqAAAAAJ&hl=es&oi=ao)). In this hands-on component, attendees applied the concepts through structured exercises oriented toward outlining, drafting, and refining scientific text, with the aim of producing material suitable for **conference presentations** and **academic journal submissions**.
 
 <img src="/assets/img/reading_writing_2025_2.jpg" alt="scientific_articles"/>  
 
