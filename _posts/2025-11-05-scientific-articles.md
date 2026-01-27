@@ -4,7 +4,7 @@ title: "Theoretical and Practical Workshop on Reading and Writing Scientific Art
 author: "HDSP Group"
 categories: events
 tags: [workshop, outreach, scientific-writing, research, HDSP]
-image: reading_writing_2025.jpg
+image: reading_writing_2026.jpg
 ---
 
 Reading and writing scientific articles are essential skills for participating in academic communities and communicating research results effectively. With this in mind, the HDSP research seedbed held the **Theoretical and Practical Workshop on Reading and Writing Scientific Articles**, a **six (6) hour** training space focused on strengthening undergraduate students’ abilities in scientific reading, state-of-the-art contextualization, and academic writing.
