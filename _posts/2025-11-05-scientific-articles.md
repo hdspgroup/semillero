@@ -13,6 +13,8 @@ The workshop was structured into **three (3) hours of theoretical content** and 
 
 The practical session was guided by the **PhD students**, led by **Karen Fonseca** ([Google ScholarJ](https://scholar.google.com/citations?user=KQCZTqAAAAAJ&hl=es&oi=ao)). In this hands-on component, attendees applied the concepts through structured exercises oriented toward outlining, drafting, and refining scientific text, with the aim of producing material suitable for **conference presentations** and **academic journal submissions**.
 
+![Theoretical and Practical Workshop on Reading and Writing Scientific Articles](/assets/img/reading_writing_2025_2.jpg)
+
 Overall, the event promoted the development of **critical and analytical thinking**, encouraging participants to read research more strategically and to write with greater clarity, rigor, and purpose for academic and professional dissemination.
 
 ## Main Topics
